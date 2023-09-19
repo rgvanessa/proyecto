@@ -39,10 +39,11 @@ button {
     padding: 15px;
     font-size: 20px;
     border: none;
-    background-color: #eee;
+    background-color: #efc5c5;
     cursor: pointer;
 }
 
 button:hover {
     background-color: #ddd;
 }
+
